@@ -1,0 +1,56 @@
+.unlog
+{
+
+float: right;
+margin-right: 15px;
+border-radius: 15px;
+}
+
+.user
+{
+float: right;
+font-size: 20px;
+background-color: #446E9B;
+color: white;
+padding-left: 10px;
+padding-right: 10px;
+border-radius: 15px;
+
+}
+
+.dropdown {
+  margin-right: 1px;
+ 
+  position: relative;
+  display: inline-block;
+  background-color: #446E9B;
+border-radius: 15px;
+font-family: "Comic Sans MS", sans-serif;
+font-size: 20px;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.avatar
+{
+border-radius: 15px;
+}
+
+.pseudo
+{
+color: white;
+}
+
+

@@ -1,0 +1,64 @@
+.loginSpace
+{
+   margin-top: 200px;
+   padding-top: 20px;
+   border-radius: 15px;
+   background-color: #446E9B;
+
+}
+
+.couleurNom
+{
+   color: white;
+}
+
+
+body  {
+  background-image: url("images/img1.jpg");
+  background-color: #cccccc;
+  background-size: 2000px;
+}
+
+.messageErr
+{
+  margin-top:15px;
+}
+
+.styleLien:hover{
+  color: red;
+}
+
+.styleLien
+{
+text-decoration: underline;
+}
+
+
+
+
+
+.redim
+{
+ font-size: 15px;
+ height: 35px;
+ bottom: 0px;
+ padding-top: 5px;
+}
+
+.messagePhp
+{
+ font-size: 15px;
+ height: 35px;
+ top: 155px;
+ padding-top: 0px;
+border-top: -10px;
+padding-top: -10px;
+margin-top: -10px;
+margin-bottom: 15px;
+border-top: -10px;
+}
+
+.tailleNom
+{
+font-size: 20px;
+}
